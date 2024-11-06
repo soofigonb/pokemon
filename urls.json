@@ -1,0 +1,5 @@
+{
+    "users": "https://random-data-api.com/api/v2/users",
+    "addresses": "https://random-data-api.com/api/v2/addresses",
+    "beers": "https://random-data-api.com/api/v2/beers"
+}
